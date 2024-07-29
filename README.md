@@ -10,6 +10,6 @@
 
 ##  AUTOMATION:
 
-###  [Direct download of audio from youtube tutorials for offline listening using python's open-source youtube_dl package available to everyone](https://github.com/SandyGCabanes/yt_download_audio_batch_process)
+###  [Direct download of audio from youtube tutorials for offline listening using python's open-source ytdlp package available to everyone](https://github.com/SandyGCabanes/yt_download_audio_batch_process)
 
-###  [Direct download of videos from youtube tutorials for offline viewing using python's open-source pafy package available to everyone](https://github.com/SandyGCabanes/yt_videos_batch_download_automation_project)
+###  [Direct download of videos from youtube tutorials for offline viewing using python's open-source ytdlp package available to everyone](https://github.com/SandyGCabanes/yt_videos_batch_download_automation_project)
