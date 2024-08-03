@@ -2,6 +2,10 @@
 
 ## This contains all links to my python portfolio projects
 
+##  DATA EXPLORATION:
+
+### [Laptop Prices Exploratory Analysis ]([https://www.kaggle.com/code/sandygcdsa/laptop-prices-project])
+
 ##  MACHINE LEARNING:
 
 ### [Customer Churn Analysis Using SHAP analysis in Explainer Dashboard Python Package](https://github.com/SandyGCabanes/customer_churn_SHAP_analysis_with_explainer_dashboard)
