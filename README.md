@@ -4,7 +4,7 @@
 
 ##  DATA EXPLORATION:
 
-### [Laptop Prices Exploratory Analysis ]([https://www.kaggle.com/code/sandygcdsa/laptop-prices-project])
+### [Laptop Prices Exploratory Analysis ](https://www.kaggle.com/code/sandygcdsa/laptop-prices-project)
 
 ##  MACHINE LEARNING:
 
